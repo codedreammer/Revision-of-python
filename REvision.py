@@ -20,3 +20,28 @@ global_mean_sea_level_2018= 21.36
 
 print(global_mean_sea_level_2018)
 
+x = {"apple", "banana", "cherry"}
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
+
+x = frozenset({"apple", "banana", "cherry"})
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
+
+x = None
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
